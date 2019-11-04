@@ -4,25 +4,25 @@
 
 ## Preview
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/screenshots/themes/grayscale.png)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+[![Grayscale Preview](https://startbootstrap.com/assets/img/screenshots/themes/grayscale.png)](https://blackrockdigital.github.io/Moutwei.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
+**[View Live Preview](https://blackrockdigital.github.io/Moutwei.github.io/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-grayscale/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/Moutwei.github.io/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/Moutwei.github.io.svg)](https://www.npmjs.com/package/Moutwei.github.io)
+[![Build Status](https://travis-ci.org/BlackrockDigital/Moutwei.github.io.svg?branch=master)](https://travis-ci.org/BlackrockDigital/Moutwei.github.io)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/Moutwei.github.io/status.svg)](https://david-dm.org/BlackrockDigital/Moutwei.github.io)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/Moutwei.github.io/dev-status.svg)](https://david-dm.org/BlackrockDigital/Moutwei.github.io?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/)
-* Install via npm: `npm i startbootstrap-grayscale`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-grayscale.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
+* Install via npm: `npm i Moutwei.github.io`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/Moutwei.github.io.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/Moutwei.github.io)
 
 ## Usage
 
@@ -46,7 +46,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/Moutwei.github.io/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
 ## About
 
@@ -65,4 +65,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/Moutwei.github.io/blob/gh-pages/LICENSE) license.
